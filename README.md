@@ -1,2 +1,2 @@
 # cSharp
-Repository to organize and save my studies in C#
+Repository to organize my studies in C#
