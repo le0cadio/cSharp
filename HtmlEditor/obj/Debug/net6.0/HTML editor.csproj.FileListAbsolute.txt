@@ -1,0 +1,15 @@
+C:\Users\guilh\Desktop\cSharp\HTML editor\bin\Debug\net6.0\HTML editor.exe
+C:\Users\guilh\Desktop\cSharp\HTML editor\bin\Debug\net6.0\HTML editor.deps.json
+C:\Users\guilh\Desktop\cSharp\HTML editor\bin\Debug\net6.0\HTML editor.runtimeconfig.json
+C:\Users\guilh\Desktop\cSharp\HTML editor\bin\Debug\net6.0\HTML editor.dll
+C:\Users\guilh\Desktop\cSharp\HTML editor\bin\Debug\net6.0\HTML editor.pdb
+C:\Users\guilh\Desktop\cSharp\HTML editor\obj\Debug\net6.0\HTML editor.csproj.AssemblyReference.cache
+C:\Users\guilh\Desktop\cSharp\HTML editor\obj\Debug\net6.0\HTML editor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\guilh\Desktop\cSharp\HTML editor\obj\Debug\net6.0\HTML editor.AssemblyInfoInputs.cache
+C:\Users\guilh\Desktop\cSharp\HTML editor\obj\Debug\net6.0\HTML editor.AssemblyInfo.cs
+C:\Users\guilh\Desktop\cSharp\HTML editor\obj\Debug\net6.0\HTML editor.csproj.CoreCompileInputs.cache
+C:\Users\guilh\Desktop\cSharp\HTML editor\obj\Debug\net6.0\HTML editor.dll
+C:\Users\guilh\Desktop\cSharp\HTML editor\obj\Debug\net6.0\refint\HTML editor.dll
+C:\Users\guilh\Desktop\cSharp\HTML editor\obj\Debug\net6.0\HTML editor.pdb
+C:\Users\guilh\Desktop\cSharp\HTML editor\obj\Debug\net6.0\HTML editor.genruntimeconfig.cache
+C:\Users\guilh\Desktop\cSharp\HTML editor\obj\Debug\net6.0\ref\HTML editor.dll
