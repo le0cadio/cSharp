@@ -1,4 +1,4 @@
-# Start
+# Index
 Notebook to organize my studies in C#
 
 # About the project
