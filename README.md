@@ -7,5 +7,5 @@ This repository was created with the aim of saving and demonstrating my evolutio
 
 # About the author
 
-6th semester computer science student, gamedev & backend developer
+computer science student, gamedev & backend developer
 
