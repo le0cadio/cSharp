@@ -1,13 +1,60 @@
-int soma = 0, numero = 0;
+string opcao;
 
-do
+while (true)
 {
-    Console.WriteLine("Digite um número: (0 para parar)");
-    numero = Convert.ToInt32(Console.ReadLine());
-    soma += numero;
-} while (numero != 0);
+    Console.WriteLine("Digite a opção desejada: ");
+    Console.WriteLine("1 - Cadastrar");
+    Console.WriteLine("2 - Buscar cliente");
+    Console.WriteLine("3 - Sair");
+    opcao = Console.ReadLine();
 
-Console.WriteLine("A soma dos números digitados é: " + soma);
+    switch (opcao)
+    {
+        case "1":
+            Console.WriteLine("Cadastrar");
+            break;
+        case "2":
+            Console.WriteLine("Buscar cliente");
+            break;
+        case "3":
+            Console.WriteLine("Sair");
+            Environment.Exit(0);
+            break;
+        default:
+            Console.WriteLine("Opção inválida");
+            break;
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+// int soma = 0, numero = 0;
+
+// do
+// {
+//     Console.WriteLine("Digite um número: (0 para parar)");
+//     numero = Convert.ToInt32(Console.ReadLine());
+//     soma += numero;
+// } while (numero != 0);
+
+// Console.WriteLine("A soma dos números digitados é: " + soma);
 
 
 
