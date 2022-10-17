@@ -1,6 +1,7 @@
 string opcao;
+bool exibirMenu = true;
 
-while (true)
+while (exibirMenu)
 {
     Console.WriteLine("Digite a opção desejada: ");
     Console.WriteLine("1 - Cadastrar");
@@ -18,7 +19,7 @@ while (true)
             break;
         case "3":
             Console.WriteLine("Sair");
-            Environment.Exit(0);
+            exibirMenu = false;
             break;
         default:
             Console.WriteLine("Opção inválida");
