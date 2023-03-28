@@ -7,11 +7,10 @@ namespace Calculator
         static void Main(string[] args)
         {
             Menu();
-
         }
+
         static void Menu()
         {
-
             Console.Clear();
             Console.WriteLine("Welcome to the calculator!");
             Console.WriteLine("--------------------------------");
@@ -26,15 +25,30 @@ namespace Calculator
 
             switch (result)
             {
-                case 1: Sum(); break;
-                case 2: Subtraction(); break;
-                case 3: Division(); break;
-                case 4: Multiplication(); break;
-                case 5: SquareRoot(); break;
-                case 6: Environment.Exit(0); break;
-                default: Menu(); break;
+                case 1:
+                    Sum();
+                    break;
+                case 2:
+                    Subtraction();
+                    break;
+                case 3:
+                    Division();
+                    break;
+                case 4:
+                    Multiplication();
+                    break;
+                case 5:
+                    SquareRoot();
+                    break;
+                case 6:
+                    Environment.Exit(0);
+                    break;
+                default:
+                    Menu();
+                    break;
             }
         }
+
         static void Sum()
         {
             Console.Clear();
@@ -47,9 +61,9 @@ namespace Calculator
             Console.ReadLine();
             Menu();
         }
+
         static void Subtraction()
         {
-
             Console.Clear();
             Console.WriteLine("Please enter your first number: ");
             float firstNumber = float.Parse(Console.ReadLine());
@@ -60,6 +74,7 @@ namespace Calculator
             Console.ReadLine();
             Menu();
         }
+
         static void Division()
         {
             Console.Clear();
@@ -72,6 +87,7 @@ namespace Calculator
             Console.WriteLine("Press any key to continue...");
             Menu();
         }
+
         static void Multiplication()
         {
             Console.Clear();
@@ -84,6 +100,7 @@ namespace Calculator
             Console.ReadLine();
             Menu();
         }
+
         static void SquareRoot()
         {
             Console.Clear();
@@ -93,6 +110,6 @@ namespace Calculator
             Console.WriteLine("Press any key to continue...");
             Console.ReadLine();
             Menu();
-        }    
+        }
     }
 }
